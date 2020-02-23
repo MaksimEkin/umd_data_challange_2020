@@ -1,6 +1,6 @@
 # UMD Data Challange 2020 - Ocean Clean Up
 
-![Ocean clean up time lapse](ocean.gif)
+![Ocean clean up time lapse](plots/ocean.gif)
 
 ![](plots/corr_table.png)
 
