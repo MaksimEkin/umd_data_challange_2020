@@ -1,1 +1,3 @@
-# umd_data_challange_2020
+# UMD Data Challange 2020 - Ocean Cleanup
+
+![](ocean.gif)
