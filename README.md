@@ -12,35 +12,49 @@
 | Pieces of trash collected | 19,051,840.0 |
 
 
+## Time Lapse Trash Collection Map
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
 </p>
+<br>
 
+## Collected Trash in Pounds Heatmap
 <p align="center">
   <img width="850" height="500" src="plots/map.png">
 </p>
+<br>
 
-
+## Dataset Corelation Table
 <p align="center">
   <img width="850" height="800" src="plots/corr_table.png">
 </p>
+<br>
 
+## Pieces of Trash Collected Scatter Plot
 <p align="center">
   <img width="550" height="450" src="plots/items_collected_scatter_plot.png">
 </p>
 
+## Miles Covered by State
 <p align="center">
   <img width="850" height="800" src="plots/miles_covered_per_state.png">
 </p>
+<br>
 
+## Pieces of Trash Collected by the Children Volunteers
 <p align="center">
   <img width="700" height="550" src="plots/pieces_per_state.png">
 </p>
+<br>
 
+## Pounds of Trash Collected by State
 <p align="center">
   <img width="850" height="800" src="plots/pounds_per_state.png">
 </p>
+<br>
 
+## Types of Trash Frequency
 <p align="center">
   <img width="950" height="550" src="plots/trash_type_frequency.png">
 </p>
+<br>
