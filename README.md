@@ -4,6 +4,7 @@
 <br>
 
 ## Dataset General Statistics
+
 |Category| Amount |
 |--|--|
 | People participated in cleaning| 722,973.0 |
