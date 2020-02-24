@@ -17,21 +17,21 @@
 </p>
 
 <p align="center">
-  <img width="450" height="450" src="plots/items_collected_scatter_plot.png">
+  <img width="550" height="450" src="plots/items_collected_scatter_plot.png">
 </p>
 
 <p align="center">
-  <img width="850" height="850" src="plots/miles_covered_per_state.png">
+  <img width="850" height="800" src="plots/miles_covered_per_state.png">
 </p>
 
 <p align="center">
-  <img width="850" height="550" src="plots/pieces_per_state.png">
+  <img width="750" height="550" src="plots/pieces_per_state.png">
 </p>
 
 <p align="center">
-  <img width="850" height="850" src="plots/pounds_per_state.png">
+  <img width="850" height="800" src="plots/pounds_per_state.png">
 </p>
 
 <p align="center">
-  <img width="850" height="550" src="plots/trash_type_frequency.png">
+  <img width="950" height="550" src="plots/trash_type_frequency.png">
 </p>
