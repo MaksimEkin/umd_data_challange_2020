@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img width="800" height="400" src="plots/ocean.gif">
+  <img width="800" height="600" src="plots/ocean.gif">
 </p>
 
 ![](plots/corr_table.png)
