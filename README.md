@@ -14,7 +14,7 @@
 
 <br>
 
-## [Time Lapse Trash Collection Map] (https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
+## [Time Lapse Trash Collection Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
 </p>
