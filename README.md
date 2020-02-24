@@ -3,6 +3,7 @@
 ### [Github Page of the Project](https://maksimekin.github.io/umd_data_challange_2020/)
 <br>
 
+## Dataset General Statistics
 |Category| Amount |
 |--|--|
 | People participated in cleaning| 722,973.0 |
