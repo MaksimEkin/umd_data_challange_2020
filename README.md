@@ -2,14 +2,14 @@
 
 ### [Homepage](https://maksimekin.github.io/umd_data_challange_2020/)  --- [Zone Clean Up Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html) --- [Time Lapse Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
 
- - **Number of states joined:** 54
- - **Number of zones joined:** 901
- - **Number of items collected:** 19,051,840.0
- - **Total pounds collected:** 11,780,214.86 lbs
- - **Number of people participated:** 722,973.0
- - **Total miles covered:** 54,063.60
-
-
+|Category| Amount |
+|--|--|
+| People participated in cleaning| 722,973.0 |
+| Pounds of trash collected | 11,780,214.86 lbs |
+| Miles of area covered in cleaning | 54,063.60 mi |
+| Number of states participated | 54 |
+| Number of zones participated | 901 |
+| Pieces of trash collected | 19,051,840.0 |
 
 
 <p align="center">
