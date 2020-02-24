@@ -26,7 +26,7 @@
 </p>
 <br>
 <p align="center">
-  <img width="850" height="500" src="stats/trash_type_dist.png">
+  <img width="850" height="500" src="stats/trash_type_pie.png">
 </p>
 <br>
 
