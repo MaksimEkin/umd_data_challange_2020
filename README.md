@@ -5,16 +5,13 @@
 
 ## Dataset General Statistics
 
-|Category| Amount |
- |--|--|
- | People participated in cleaning| 722,973.0 |
- | Pounds of trash collected | 11,780,214.86 lbs |
- | Miles of area covered in cleaning | 54,063.60 mi |
- | Number of states participated | 54 |
- | Number of zones participated | 901 |
- | Pieces of trash collected | 19,051,840.0 |
-
-
+<p align="center">
+  <img width="850" height="500" src="stats/stat_1.png">
+</p>
+<br>
+<p align="center">
+  <img width="850" height="500" src="stats/stat_2.png">
+</p>
 <br>
 
 ## [Time Lapse Trash Collection Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
