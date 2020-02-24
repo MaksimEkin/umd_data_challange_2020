@@ -4,10 +4,8 @@
 
 
 <p align="center">
-  <img width="460" height="300" src="plots/ocean.gif">
+  <img width="800" height="400" src="plots/ocean.gif">
 </p>
-
-![Ocean clean up time lapse](plots/ocean.gif)
 
 ![](plots/corr_table.png)
 
