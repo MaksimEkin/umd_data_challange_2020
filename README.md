@@ -1,6 +1,7 @@
 # UMD Data Challange 2020 - Ocean Clean Up
 
-### [Homepage](https://maksimekin.github.io/umd_data_challange_2020/)  --- [Zone Clean Up Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html) --- [Time Lapse Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
+### [Github Page of the Project](https://maksimekin.github.io/umd_data_challange_2020/)
+<br>
 
 |Category| Amount |
 |--|--|
@@ -11,14 +12,17 @@
 | Number of zones participated | 901 |
 | Pieces of trash collected | 19,051,840.0 |
 
+<br>
 
 ## Time Lapse Trash Collection Map
+[Time Lapse Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
 </p>
 <br>
 
 ## Collected Trash in Pounds Heatmap
+[Zone Clean Up Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html)
 <p align="center">
   <img width="850" height="500" src="plots/map.png">
 </p>
