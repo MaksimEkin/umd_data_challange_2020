@@ -4,7 +4,9 @@
 <br>
 
 ## Dataset General Statistics
-|Category| Amount |
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  |Category| Amount |
 |--|--|
 | People participated in cleaning| 722,973.0 |
 | Pounds of trash collected | 11,780,214.86 lbs |
@@ -12,6 +14,13 @@
 | Number of states participated | 54 |
 | Number of zones participated | 901 |
 | Pieces of trash collected | 19,051,840.0 |
+  </div>
+  <div class="col-md-4" markdown="1">
+  <!-- ![Alt Text](../img/folder/blah.jpg) -->
+  <img height="600px" class="center-block" src="../img/folder/blah.jpg">
+  </div>
+</div>
+
 
 <br>
 
