@@ -3,27 +3,13 @@
 ### [Homepage](https://maksimekin.github.io/umd_data_challange_2020/)  --- [Zone Clean Up Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html) --- [Time Lapse Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
 
 
-| Number of children participated | Number of people participated |
-|--|--|
-| 92,969.0 | 722,973.0 |
-
-<br>
-
-| Total pounds collected | Total miles covered |
-|--|--|
-| 11,780,214.86 lbs | 54,063.60 |
-
-<br>
-
-| Number of states joined | Number of zones joined |
-|--|--|
-| 54 | 901 |
-
-<br>
-
-| Number of items collected |  |
-|--|--|
-| 19,051,840.0 |  |
+ - **Number of children participated:** 92,969.0
+ - **Number of people participated:** 722,973.0
+ - **Total pounds collected:** 11,780,214.86 lbs
+ - **Total miles covered:** 54,063.60
+ - **Number of states joined:** 54
+ - **Number of zones joined:** 901
+ - **Number of items collected:** 19,051,840.0
 
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
