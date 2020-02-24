@@ -1,5 +1,11 @@
 # UMD Data Challange 2020 - Ocean Clean Up
 
+
+
+| [Homepage](https://maksimekin.github.io/umd_data_challange_2020/) | [Time Lapse Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)         	- [Zone Clean Up Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html)|
+|--|--|
+
+
 ![Ocean clean up time lapse](plots/ocean.gif)
 
 ![](plots/corr_table.png)
