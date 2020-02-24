@@ -4,10 +4,12 @@
 
 
 <p align="center">
-  <img width="800" height="600" src="plots/ocean.gif">
+  <img width="850" height="500" src="plots/ocean.gif">
 </p>
 
-![](plots/corr_table.png)
+<p align="center">
+  <img width="850" height="800" src="plots/corr_table.png">
+</p>
 
 ![](plots/items_collected_scatter_plot.png)
 
