@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img width="750" height="550" src="plots/pieces_per_state.png">
+  <img width="700" height="550" src="plots/pieces_per_state.png">
 </p>
 
 <p align="center">
