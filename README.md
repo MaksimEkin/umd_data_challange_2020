@@ -44,14 +44,6 @@
 
 ## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/plots/map_3.html)
 
-
- - **Ocean Surface Debris Data**
- - **Tampa Bay Natural Trash Collection Areas**
-
-
- <img src="/plots/map_3_img2.png" width="425"/> <img src="/plots/map_3_img.png" width="425"/>
-
-
 **Ocean Surface Debris Data:** 
 >Plastic marine debris data (mass of particles g per km2) collected with a plankton net with 200 micron mesh
 
@@ -59,11 +51,22 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 [Global sampling of ocean debris data](http://onesharedocean.org/data#276)
 
+<p>
+    <img src="/plots/map_3_img2.png" alt>
+    <em>Ocean Surface Debris Data</em>
+</p>
+
+
 **Tampa Bay Natural Trash Collection Areas:**
 
 >These locations were identified as natural collection points, which under certain environmental conditions can be considered marine debris hot spots. The points listed in these data, represent larger segments of shoreline where marine debris or other floating sargassum may be directed through wind and tidal forces. These locations were identified through the use of satellite imagery, a Tampa Bay specific Estuary, Coastal and Ocean Circulation Model (ECOM), beach cleanup data and fish kills reported to FWC by the public
 
 [Natural Collection Areas of Tampa Bay](https://hub.arcgis.com/datasets/myfwc::natural-collection-areas-of-tampa-bay-)
+
+<p>
+    <img src="/plots/map_3_img.png" alt>
+    <em>Tampa Bay Natural Trash Collection Areas</em>
+</p>
 
 
 ## Dataset Corelation Table
