@@ -34,6 +34,9 @@
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
 </p>
+<p align="center">
+  <img width="850" height="550" src="plots/map1_img.png">
+</p>
 <br>
 
 ## [Collected Trash in Pounds Heatmap](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html)
