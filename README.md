@@ -40,7 +40,16 @@
 <p align="center">
   <img width="850" height="500" src="plots/map.png">
 </p>
-<br>
+<br>ce
+
+## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/plots/map_3.html)
+Ocean Surface Debris Data            |  Tampa Bay Natural Trash Collection Areas
+:-------------------------:|:-------------------------:
+![](/plots/map_3_img2.png) |  ![](/plots/map_3_img.png)
+
+Ocean Surface Debris Data: Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S. Hernández-León, Á. T. Palma, S. Navarro, J. García-de-Lomas, A. Ruiz, M. L. Fernández-de-Puelles and C. M. Duarte (2014). "Plastic debris in the open ocean." Proceedings of the National Academy of Sciences, 111 10239-10244. <br>
+
+Tampa Bay Natural Trash Collection Areas: https://hub.arcgis.com/datasets/myfwc::natural-collection-areas-of-tampa-bay-
 
 ## Dataset Corelation Table
 <p align="center">
