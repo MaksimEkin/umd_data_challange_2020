@@ -54,9 +54,9 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 [Global sampling of ocean debris data](http://onesharedocean.org/data#276)
 
-<p>
-    <img src="/plots/map_3_img2.png" alt>
-    <em>Ocean Surface Debris Data</em>
+
+<p align="center">
+  <img width="850" height="550" src="/plots/map_3_img2.png">
 </p>
 
 
@@ -66,9 +66,8 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 [Natural Collection Areas of Tampa Bay](https://hub.arcgis.com/datasets/myfwc::natural-collection-areas-of-tampa-bay-)
 
-<p>
-    <img src="/plots/map_3_img.png" alt>
-    <em>Tampa Bay Natural Trash Collection Areas</em>
+<p align="center">
+  <img width="850" height="550" src="/plots/map_3_img.png">
 </p>
 
 
