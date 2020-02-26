@@ -43,9 +43,11 @@
 <br>
 
 ## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/plots/map_3.html)
-Ocean Surface Debris Data            |  Tampa Bay Natural Trash Collection Areas
-:-------------------------:|:-------------------------:
- ![](/plots/map_3_img2.png) |  ![](/plots/map_3_img.png)
+
+ -  **Ocean Surface Debris Data**
+ - **Tampa Bay Natural Trash Collection Areas**
+
+<img src="/plots/map_3_img2.png" width="425"/> <img src="/plots/map_3_img.png" width="425"/>
 
 **Ocean Surface Debris Data:** 
 >Plastic marine debris data (mass of particles g per km2) collected with a plankton net with 200 micron mesh
