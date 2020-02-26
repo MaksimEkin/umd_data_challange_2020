@@ -56,7 +56,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 
 <p align="center">
-  <img width="850" height="550" src="/plots/map_3_img2.png">
+  <img width="850" height="600" src="/plots/map_3_img2.png">
 </p>
 
 
@@ -67,7 +67,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 [Natural Collection Areas of Tampa Bay](https://hub.arcgis.com/datasets/myfwc::natural-collection-areas-of-tampa-bay-)
 
 <p align="center">
-  <img width="850" height="550" src="/plots/map_3_img.png">
+  <img width="850" height="600" src="/plots/map_3_img.png">
 </p>
 
 
