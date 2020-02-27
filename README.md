@@ -27,22 +27,22 @@
 </p>
 <br>
 
-## [Time Lapse Trash Collection Map](https://maksimekin.github.io/umd_data_challange_2020/plots/map.html)
+## [Time Lapse Trash Collection Map](https://maksimekin.github.io/umd_data_challange_2020/maps/time_lapse.html)
 <p align="center">
   <img width="850" height="500" src="plots/ocean.gif">
 </p>
 <p align="center">
-  <img width="850" height="550" src="plots/map1_img.png">
+  <img width="850" height="550" src="plots/time_lapse.png">
 </p>
 <br>
 
-## [Collected Trash in Pounds Heatmap](https://maksimekin.github.io/umd_data_challange_2020/plots/map_2.html)
+## [Collected Trash in Pounds Heatmap](https://maksimekin.github.io/umd_data_challange_2020/maps/heat_map.html)
 <p align="center">
-  <img width="850" height="500" src="plots/map.png">
+  <img width="850" height="500" src="plots/heat_map.png">
 </p>
 <br>
 
-## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/plots/map_3.html)
+## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/maps/combined_data.html)
 
 **Ocean Surface Debris Data:** 
 >Plastic marine debris data (mass of particles g per km2) collected with a plankton net with 200 micron mesh
@@ -53,7 +53,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 
 <p align="center">
-  <img width="850" height="700" src="/plots/map_3_img2.png">
+  <img width="850" height="700" src="/plots/ocean_debris.png">
 </p>
 
 
@@ -64,7 +64,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 [Natural Collection Areas of Tampa Bay](https://hub.arcgis.com/datasets/myfwc::natural-collection-areas-of-tampa-bay-)
 
 <p align="center">
-  <img width="850" height=700" src="/plots/map_3_img.png">
+  <img width="850" height=700" src="/plots/tampa_bay.png">
 </p>
 
 
