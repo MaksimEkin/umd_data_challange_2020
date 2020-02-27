@@ -1,5 +1,10 @@
 # UMD Data Challange 2020 - Ocean Clean Up
 
+<p align="center">
+  <img width="850" height="500" src="cover/pollution.jpg">
+</p>
+<br>
+
 71% of the Earth’s surface is covered by oceans. This is an easily forgettable truth for many individuals whose most frequent encounter with oceans comes through a desktop wallpaper. The oceans are humanity’s greatest resource and they are hurting. Our project attempts to analyze the Booz Allen Hamilton Ocean Cleanup data in order to assess cleanup activity, optimize the effort, and possibly predict future cleanup needs.
 <br><br>
 The given dataset was collected from an app that allowed people to self-report cleanup projects. There are approximately 38,000 recorded cleanup operations. Grouped by date, each record could be examined for location, trash content, number of people involved, and much more. Our main tool for the task was Python and the many data processing libraries that come with it. To get a good idea of our data, we broke it down graphically including time series plots of participation, correlations between different data points, comparisons of trash frequency, etc. This process gave us an idea of what type of trash and which areas were most problematic.
@@ -110,5 +115,11 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 ## Types of Trash Frequency
 <p align="center">
   <img width="950" height="550" src="plots/trash_type_frequency.png">
+</p>
+<br>
+
+<br>
+<p align="center">
+  <img width="850" height="850" src="cover/sea-turtle.jpg">
 </p>
 <br>
