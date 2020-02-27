@@ -120,6 +120,6 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 
 <br>
 <p align="center">
-  <img width="850" height="850" src="cover/sea-turtle.jpg">
+  <img width="550" height="550" src="cover/sea-turtle.jpg">
 </p>
 <br>
