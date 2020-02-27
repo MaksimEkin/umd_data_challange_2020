@@ -12,7 +12,7 @@ The given dataset was collected from an app that allowed people to self-report c
 To further our understanding, the group looked at other datasets such as estimated concentrations of plastic in the oceans and area-specific environmental conditions. This data was interpolated with the original dataset. We also wanted to know which areas are prone to which types of trash. For this task, we trained a machine learning model to predict the likeliest trash content for a certain location on a given date.
 Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepping on discarded glass, the effects of ocean pollution are readily apparent. If we hope to sustain the world’s largest resource, action must be taken. Our project attempts to show the current state of the cleanup effort and some possible ways to optimize the process in the future.
 <br><br>
-**[UMD Data Challange](https://datachallenge.ischool.umd.edu)**
+**[UMD Data Challange](https://datachallenge.ischool.umd.edu)** (Team DC20065)
 <br><br>
 
 ## Dataset General Statistics
