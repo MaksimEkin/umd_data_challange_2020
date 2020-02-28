@@ -42,6 +42,15 @@ Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepp
 </p>
 <br>
 <p align="center">
+  <img width="850" height="500" src="stats/stat_7.png">
+</p>
+** Cost of Cleaning the Ocean:**
+- Cost/Value of a volunteer: $ 25.43 [Value of Colunteer](https://independentsector.org/news-post/new-value-volunteer-time-2019/)
+- Total people participated: 721697
+- Volunteering hours on average person/year in the USA: 32.1 [Average Volunteering Hours](https://www.huffpost.com/entry/america-does-not-have-eno_b_9032152)
+
+<br>
+<p align="center">
   <img width="850" height="500" src="stats/trash_type_pie.png">
 </p>
 <br>
