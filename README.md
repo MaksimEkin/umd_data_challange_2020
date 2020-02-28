@@ -51,13 +51,17 @@ Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepp
 </p>
 <br>
 
+[See the Time-Lapse Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/time_lapse.html)
+
 ## [Collected Trash in Pounds Heatmap](https://maksimekin.github.io/umd_data_challange_2020/maps/heat_map.html)
 <p align="center">
   <img width="850" height="500" src="plots/heat_map.png">
 </p>
 <br>
 
-## [Combining Different Datasets with the Ocean Clean Up Dataset](https://maksimekin.github.io/umd_data_challange_2020/maps/combined_data.html)
+[See the Trash Heatmap Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/heat_map.html)
+
+## Combining Different Datasets with the Ocean Clean Up Dataset
 
 **Ocean Surface Debris Data:** 
 >Plastic marine debris data (mass of particles g per km2) collected with a plankton net with 200 micron mesh
@@ -71,6 +75,8 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
   <img width="850" height="700" src="/plots/ocean_debris.png">
 </p>
 
+[See the Ocean Debris Combined Data Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/ocean_debris_combined_map.html)
+
 
 **Tampa Bay Natural Trash Collection Areas:**
 
@@ -81,7 +87,20 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 <p align="center">
   <img width="850" height=700" src="/plots/tampa_bay.png">
 </p>
+                                                         
+[See Tampa Bay Natural Trash Collection Areas Combined Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/tampa_bay_combined_map.html)                                             
+                                                         
+**Sea Turtle Population:**
+                                                         
+>This data set contains sea turtle length and weight measurements, sex ratios, species composition, capture and release locations, tagging information, and information on biological samples collected for loggerhead, green, and Kemp's Ridley sea turtle populations in the coastal waters of North Carolina.   
+       
+[Sea turtle population study in the coastal waters of North Carolina](https://catalog.data.gov/dataset/sea-turtle-population-study-in-the-coastal-waters-of-north-carolina-from-1988-06-07-to-2015-09-)
 
+<p align="center">
+  <img width="850" height=700" src="/plots/turtles.png">
+</p>
+                                                         
+[See the Sea Turtle Population Combined Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/sea_turtles_combined_map.html)                                         
 
 ## Dataset Corelation Table
 <p align="center">
