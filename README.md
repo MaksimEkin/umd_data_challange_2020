@@ -38,6 +38,10 @@ Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepp
 </p>
 <br>
 <p align="center">
+  <img width="850" height="500" src="stats/stat_6.png">
+</p>
+<br>
+<p align="center">
   <img width="850" height="500" src="stats/trash_type_pie.png">
 </p>
 <br>
