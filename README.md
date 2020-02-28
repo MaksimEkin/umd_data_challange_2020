@@ -24,6 +24,8 @@ Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepp
 The coastline cleanup effort has some momentum behind it as shown by the high participation rates. Some level of cleanup has been attempted and recorded in all 50 states. Even landlocked states have participated by cleaning up rivers and other localized bodies of water.
 
 <br>
+<br>
+<br>
 
 <p align="center">
   <img width="850" height="500" src="stats/stat_2.png">
