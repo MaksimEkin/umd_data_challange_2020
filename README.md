@@ -34,14 +34,30 @@ The coastline cleanup effort has some momentum behind it as shown by the high pa
 <p align="center">
   <img width="850" height="500" src="stats/stat_3.png">
 </p>
+
+Almost 12 million pounds of trash have been removed through this effort. This equates to the weight of about 3600 midsize sedans. All this trash has been picked up, bagged, and removed from bodies of water. This statistic sounds impressive until you realize that the experts estimate that 14 billion pounds of trash is dumped into the oceans every year. At this rate the cleanup effort would need to be multiplied by a factor of 3500 to keep up.
+
 <br>
+<br>
+<br>
+
 <p align="center">
   <img width="850" height="500" src="stats/stat_4.png">
 </p>
+
+The recorded cleanup operations have covered 54,000 miles of shoreline. For context, the circumference of the Earth is  24,901 miles. This means that volunteers have essentially traversed the Earth twice collecting trash.
+
+<br>
+<br>
 <br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_5.png">
 </p>
+
+With almost 20 million pieces of trash being collected, this is enough items to fill 489 fully-stocked grocery stores. In fact, much of the trash found in the oceans originated from such stores. Plastic water bottles, food wrappers, and grocery bags are some of the most common pollutants covering the shorelines.
+
+<br>
+<br>
 <br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_6.png">
