@@ -97,7 +97,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 [Sea turtle population study in the coastal waters of North Carolina](https://catalog.data.gov/dataset/sea-turtle-population-study-in-the-coastal-waters-of-north-carolina-from-1988-06-07-to-2015-09-)
 
 <p align="center">
-  <img width="850" height=700" src="/plots/turtles.png">
+  <img width="850" height=600" src="/plots/turtles.png">
 </p>
                                                          
 [See the Sea Turtle Population Combined Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/sea_turtles_combined_map.html)                                         
