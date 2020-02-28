@@ -62,6 +62,12 @@ With almost 20 million pieces of trash being collected, this is enough items to 
 <p align="center">
   <img width="850" height="500" src="stats/stat_6.png">
 </p>
+
+The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death.
+
+<br>
+<br>
+<br>
 <br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_7.png">
