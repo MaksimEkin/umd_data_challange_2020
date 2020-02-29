@@ -4,7 +4,7 @@
 - Outstanding UMBC Project
 
 <p align="center">
-  <img width="600" height="600" src="cover/certificates_umd_data_challange_2020.jpg">
+  <img width="700" height="600" src="cover/certificates_umd_data_challange_2020.jpg">
 </p>
 <br>
 <br>
