@@ -34,7 +34,6 @@ Whether it is a sea turtle with 6 pack rings as a necklace or a beach goer stepp
 The coastline cleanup effort has some momentum behind it as shown by the high participation rates. Some level of cleanup has been attempted and recorded in all 50 states. Even landlocked states have participated by cleaning up rivers and other localized bodies of water.
 
 <br>
-<br>
 
 <p align="center">
   <img width="850" height="500" src="stats/stat_2.png">
@@ -47,7 +46,6 @@ The coastline cleanup effort has some momentum behind it as shown by the high pa
 Almost 12 million pounds of trash have been removed through this effort. This equates to the weight of about 3600 midsize sedans. All this trash has been picked up, bagged, and removed from bodies of water. This statistic sounds impressive until you realize that the experts estimate that 14 billion pounds of trash is dumped into the oceans every year. At this rate the cleanup effort would need to be multiplied by a factor of 3500 to keep up.
 
 <br>
-<br>
 
 <p align="center">
   <img width="850" height="500" src="stats/stat_4.png">
@@ -56,15 +54,12 @@ Almost 12 million pounds of trash have been removed through this effort. This eq
 The recorded cleanup operations have covered 54,000 miles of shoreline. For context, the circumference of the Earth is  24,901 miles. This means that volunteers have essentially traversed the Earth twice collecting trash.
 
 <br>
-<br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_5.png">
 </p>
 
 With almost 20 million pieces of trash being collected, this is enough items to fill 489 fully-stocked grocery stores. In fact, much of the trash found in the oceans originated from such stores. Plastic water bottles, food wrappers, and grocery bags are some of the most common pollutants covering the shorelines.
 
-<br>
-<br>
 <br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_6.png">
@@ -73,7 +68,6 @@ With almost 20 million pieces of trash being collected, this is enough items to 
 The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death.
 
 
-<br>
 <br>
 <p align="center">
   <img width="850" height="500" src="stats/stat_7.png">
@@ -204,8 +198,9 @@ Hierarchical clustering to determine which trash groups belongs to which cluster
 <p align="center">
   <img width="850" height="800" src="plots/double_pass_trash_corr.png">
 </p>
-
 Two pass clustering on trash types. Items closer together in the table are now more likely to be found together
+<br>
+<br>
 <br>
 
 
