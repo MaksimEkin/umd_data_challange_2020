@@ -1,4 +1,13 @@
 # UMD Data Challange 2020 - Ocean Clean Up
+## Winning Categories
+- Most Innovative Project
+- Outstanding UMBC Project
+
+<p align="center">
+  <img width="600" height="600" src="cover/certificates_umd_data_challange_2020.jpg">
+</p>
+<br>
+<br>
 
 <p align="center">
   <img width="850" height="500" src="cover/pollution.jpg">
@@ -25,7 +34,6 @@ The coastline cleanup effort has some momentum behind it as shown by the high pa
 
 <br>
 <br>
-<br>
 
 <p align="center">
   <img width="850" height="500" src="stats/stat_2.png">
@@ -39,7 +47,6 @@ Almost 12 million pounds of trash have been removed through this effort. This eq
 
 <br>
 <br>
-<br>
 
 <p align="center">
   <img width="850" height="500" src="stats/stat_4.png">
@@ -47,7 +54,6 @@ Almost 12 million pounds of trash have been removed through this effort. This eq
 
 The recorded cleanup operations have covered 54,000 miles of shoreline. For context, the circumference of the Earth is  24,901 miles. This means that volunteers have essentially traversed the Earth twice collecting trash.
 
-<br>
 <br>
 <br>
 <p align="center">
@@ -65,8 +71,7 @@ With almost 20 million pieces of trash being collected, this is enough items to 
 
 The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death.
 
-<br>
-<br>
+
 <br>
 <br>
 <p align="center">
