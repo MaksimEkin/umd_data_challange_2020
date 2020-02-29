@@ -1,5 +1,5 @@
 # UMD Data Challange 2020 - Ocean Clean Up
-## Winning Categories
+### Winning Categories
 - Most Innovative Project
 - Outstanding UMBC Project
 
@@ -9,7 +9,7 @@
 <br>
 <br>
 
-## Ocean Clean Up Data Analysis
+### Ocean Clean Up Data Analysis
 <p align="center">
   <img width="850" height="500" src="cover/pollution.jpg">
 </p>
