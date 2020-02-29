@@ -4,11 +4,12 @@
 - Outstanding UMBC Project
 
 <p align="center">
-  <img width="700" height="600" src="cover/certificates_umd_data_challange_2020.jpg">
+  <img width="750" height="600" src="cover/certificates_umd_data_challange_2020.jpg">
 </p>
 <br>
 <br>
 
+## Ocean Clean Up Data Analysis
 <p align="center">
   <img width="850" height="500" src="cover/pollution.jpg">
 </p>
