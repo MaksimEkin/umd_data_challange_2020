@@ -183,30 +183,36 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 <br>
 
 
-## Clustering Trash Types
+## Clustering Trash Types <br><br><br>
+#### Simple correlation matrix of different trash types. No clustering attempted<br>
 <p align="center">
   <img width="850" height="800" src="plots/nocluster_trash_corr.png">
 </p>
-
-Simple correlation matrix of different trash types. No clustering attempted
 <br>
 
+#### Hierarchical clustering to determine which trash groups belongs to which cluster<br>
 <p align="center">
   <img width="850" height="800" src="plots/single_pass_trash_corr.png">
 </p>
-
-Hierarchical clustering to determine which trash groups belongs to which cluster
 <br>
 
+
+#### Two pass clustering on trash types. Items closer together in the table are now more likely to be found together <br>
 <p align="center">
   <img width="850" height="800" src="plots/double_pass_trash_corr.png">
 </p>
-Two pass clustering on trash types. Items closer together in the table are now more likely to be found together
+
 <br>
 <br>
 <br>
 
-
+## Interface for classification model that predicts most likely trash item by location
+<p align="center">
+  <img width="598" height="417" src="maps/ML.PNG">
+</p>
+<br>
+<br>
+<br>
 
 <p align="center">
   <img width="550" height="550" src="cover/sea-turtle.jpg">
