@@ -135,7 +135,7 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 <br>
 
 <p align="center">
-  <img width="900" height="507" src="plots/tampa.gif">
+  <img width="600" height="338" src="plots/tampa.gif">
 </p>
 <br>
 
