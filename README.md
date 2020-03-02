@@ -132,7 +132,14 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 <p align="center">
   <img width="850" height=700" src="/plots/tampa_bay.png">
 </p>
-                                                         
+<br>
+
+<p align="center">
+  <img width="900" height="507" src="plots/tampa.gif">
+</p>
+<br>
+
+
 [See Tampa Bay Natural Trash Collection Areas Combined Map Here](https://maksimekin.github.io/umd_data_challange_2020/maps/tampa_bay_combined_map.html)                                             
                                                          
 **Sea Turtle Population:**
