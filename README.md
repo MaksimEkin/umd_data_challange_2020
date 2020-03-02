@@ -43,7 +43,7 @@ The coastline cleanup effort has some momentum behind it as shown by the high pa
   <img width="850" height="500" src="stats/stat_3.png">
 </p>
 
-Almost 12 million pounds of trash have been removed through this effort. This equates to the weight of about 3600 midsize sedans. All this trash has been picked up, bagged, and removed from bodies of water. This statistic sounds impressive until you realize that the experts estimate that 14 billion pounds of trash is dumped into the oceans every year. At this rate the cleanup effort would need to be multiplied by a factor of 3500 to keep up.
+Almost 12 million pounds of trash have been removed through this effort. This equates to the weight of about 3600 midsize sedans. All this trash has been picked up, bagged, and removed from bodies of water. This statistic sounds impressive until you realize that the experts estimate that [14 billion pounds of trash](http://seastewards.org/projects/healthy-oceans-initiative/marine-debris-and-plastics/) is dumped into the oceans every year. At this rate the cleanup effort would need to be multiplied by a factor of 3500 to keep up.
 
 <br>
 
@@ -65,8 +65,10 @@ With almost 20 million pieces of trash being collected, this is enough items to 
   <img width="850" height="500" src="stats/stat_6.png">
 </p>
 
-The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death.
+The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death. <br><br>
 
+[Plastic bags and plastic bottles – CO2 emissions](https://timeforchange.org/plastic-bags-and-plastic-bottles-co2-emissions-during-their-lifetime/)<br>
+[Devastating Effects of Plastic Bags on Marine Life](https://americandisposal.com/blog/devastating-effects-of-plastic-bags-on-marine-life/)
 
 <br>
 <p align="center">
