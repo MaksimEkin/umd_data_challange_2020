@@ -65,11 +65,11 @@ With almost 20 million pieces of trash being collected, this is enough items to 
   <img width="850" height="500" src="stats/stat_6.png">
 </p>
 
-The carbon footprint of plastic (LDPE or PET, poyethylene) is about 6 kg CO2 per kg of plastic. The plastic bags collected from the U.S shorelines had a carbon footprint equivalent to that of a power plant running for two days non-stop. This isn’t even the worst offence for plastic bags. Sea creatures often confuse the bags for food; a great example is the sea turtle. Plastic bags floating underwater look like jellyfish, sea turtles eat jellyfish, which means sea turtles are regularly eating plastic bags by mistake. In fact a study done by the EPA showed that more that 50% of dead turtles have plastic bags in their stomachs. The bags block their digestive tracks and the buoyancy forces them to float, making it impossible for them to dive for food-they therefore starve to death. <br> <br>
-
 [Plastic bags and plastic bottles – CO2 emissions](https://timeforchange.org/plastic-bags-and-plastic-bottles-co2-emissions-during-their-lifetime/) <br>
 [Devastating Effects of Plastic Bags on Marine Life](https://americandisposal.com/blog/devastating-effects-of-plastic-bags-on-marine-life/)
 
+[Plastic bags and plastic bottles – CO2 emissions](https://timeforchange.org/plastic-bags-and-plastic-bottles-co2-emissions-during-their-lifetime/)<br>
+[Devastating Effects of Plastic Bags on Marine Life](https://americandisposal.com/blog/devastating-effects-of-plastic-bags-on-marine-life/)
 
 <br>
 <p align="center">
@@ -207,6 +207,14 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 #### Two pass clustering on trash types. Items closer together in the table are now more likely to be found together <br>
 <p align="center">
   <img width="850" height="800" src="plots/double_pass_trash_corr.png">
+</p>
+
+
+<br>
+
+## Interface for classification model that predicts most likely trash item by location
+<p align="center">
+  <img width="598" height="417" src="maps/ML.PNG">
 </p>
 
 <br>
