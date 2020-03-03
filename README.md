@@ -65,9 +65,6 @@ With almost 20 million pieces of trash being collected, this is enough items to 
   <img width="850" height="500" src="stats/stat_6.png">
 </p>
 
-[Plastic bags and plastic bottles – CO2 emissions](https://timeforchange.org/plastic-bags-and-plastic-bottles-co2-emissions-during-their-lifetime/) <br>
-[Devastating Effects of Plastic Bags on Marine Life](https://americandisposal.com/blog/devastating-effects-of-plastic-bags-on-marine-life/)
-
 [Plastic bags and plastic bottles – CO2 emissions](https://timeforchange.org/plastic-bags-and-plastic-bottles-co2-emissions-during-their-lifetime/)<br>
 [Devastating Effects of Plastic Bags on Marine Life](https://americandisposal.com/blog/devastating-effects-of-plastic-bags-on-marine-life/)
 
