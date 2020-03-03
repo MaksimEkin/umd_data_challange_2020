@@ -216,15 +216,6 @@ Cózar , A., F. Echevarría, J. I. González-Gordillo, X. Irigoien, B. Úbeda, S
 <p align="center">
   <img width="598" height="417" src="maps/ML.PNG">
 </p>
-
-<br>
-<br>
-<br>
-
-## Interface for classification model that predicts most likely trash item by location
-<p align="center">
-  <img width="598" height="417" src="maps/ML.PNG">
-</p>
 <br>
 <br>
 <br>
